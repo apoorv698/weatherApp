@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="place_name">Enter City Name…</string>
+    <string name="search">search</string>
+    <string name="weather_image_icon">weather image icon</string>
+    <string name="general_info">General Info</string>
+    <string name="or_current_location_weather">OR Current Location Weather</string>
+</resources>
